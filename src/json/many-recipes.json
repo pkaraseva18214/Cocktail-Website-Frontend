@@ -1,0 +1,738 @@
+[
+  {
+    "id": 1003,
+    "title": "Jellyfish",
+    "tags": [
+      "vodka cocktail",
+      "liqueur",
+      "shots",
+      "strong"
+    ],
+    "ingredients": [
+      {
+        "label": "vodka",
+        "value": "1 1/2 ounces vodka"
+      },
+      {
+        "label": "blue curaçao liqueur",
+        "value": "1 1/2 ounces blue curaçao liqueur"
+      },
+      {
+        "label": "white sambuca liqueur",
+        "value": "1 1/2 ounces white sambuca liqueur"
+      },
+      {
+        "label": "cream",
+        "value": "1/2 ounce cream"
+      }
+    ],
+    "updated": "2021-06-12T08:35:00Z",
+    "author": "Colleen Graham",
+    "authorId": 1002,
+    "rating": 4.2,
+    "ratingNums": 52,
+    "iconUrl": "https://www.thegreenhead.com/imgs/jellyfish-cocktail-glass-4.jpg",
+    "description": "Looking for a flavor-filled, blue highball with a cool visual effect that is fun to build? The jellyfish is the cocktail for you! It has the appearance of a Caribbean-blue sea with white tendrils floating around that gives the cocktail its marine-inspired name. You can serve this at a party while practicing your bartending skills and it's a ton of fun!",
+    "steps": [
+      "Fill a highball glass with ice and add the vodka.",
+      "Float the blue curaçao slowly on top by pouring it over the back of a bar spoon and trying to minimize the mixing of the liquids.",
+      "Float the sambuca on top in the same manner.",
+      "Float the cream on the very top.",
+      "Stir delicately and slowly as to not ruin the \"jellyfish\" effect. Serve and enjoy."
+    ]
+  },
+  {
+    "id": 1004,
+    "title": "Tequila Sunrise",
+    "tags": [
+      "tequila cocktail",
+      "citrus",
+      "long drink",
+      "low alcohol",
+      "orange"
+    ],
+    "ingredients": [
+      {
+        "label": "tequila",
+        "value": "2 ounces tequila"
+      },
+      {
+        "label": "orange juice",
+        "value": "4 ounces orange juice"
+      },
+      {
+        "label": "grenadine",
+        "value": "1/2 ounce grenadine"
+      },
+      {
+        "label": "orange slice",
+        "value": "1 orange slice, for garnish"
+      },
+      {
+        "label": "Maraschino cherry",
+        "value": "a few Maraschino cherry, for garnish"
+      }
+    ],
+    "updated": "2021-07-15T08:35:00Z",
+    "author": "Colleen Graham",
+    "authorId": 1002,
+    "rating": 4.4,
+    "ratingNums": 32,
+    "iconUrl": "https://gostion.cafe/image/cache/catalog/product/kokteilnaia_karta/tekila_sanraiz_900_600-1140x550.jpg",
+    "description": "You don't need any special skills to create the \"sunrise\" effect because it occurs naturally. Grenadine is a nonalcoholic, pomegranate-flavored syrup that adds sweetness to balance out the tart orange juice. It's so thick that, when poured, it sinks to the bottom of the glass and slowly rises up, just like a sunrise. The key is to avoid stirring the drink after adding the grenadine so it won't mix with the juice. If you do, you'll have a blush pink drink rather than eye-catching orange and red layers.",
+    "steps": [
+      "In a highball glass filled with ice cubes, pour the tequila and orange juice.",
+      "Stir well.",
+      "Slowly pour the grenadine around the inside edge of the glass. It will sink and gradually rise to mix with the other ingredients.",
+      "Garnish with an orange slice and cherry. Serve and enjoy."
+    ]
+  },
+  {
+    "id": 1005,
+    "title": "UV Liberty Cocktail",
+    "tags": [
+      "vodka cocktail",
+      "short drink"
+    ],
+    "ingredients": [
+      {
+        "label": "raspberry sherbet",
+        "value": "1 scoop raspberry sherbet"
+      },
+      {
+        "label": "UV Blue raspberry vodka",
+        "value": "1 1/2 ounces UV Blue raspberry vodka"
+      },
+      {
+        "label": "lemon-lime soda",
+        "value": "2 ounces lemon-lime soda"
+      }
+    ],
+    "updated": "2021-12-10T08:35:00Z",
+    "author": "Alex Woods",
+    "authorId": 1003,
+    "rating": 4.7,
+    "ratingNums": 13,
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt_pRqlDA-Zd2EGtND-jmunUGpcFNe46Pc7teMOpot1QOWX-itBUmLe0agFNxTAOJ77X8&usqp=CAU",
+    "description": "Beautiful blue cocktails are very easy to make when you begin with UV Blue Vodka. It's a fun raspberry-flavored vodka and one of the bluest liquors you will find. That's why it's a favorite in the bar and the foundation for a number of fun drinks, including this delightful UV liberty.",
+    "steps": [
+      "In an old-fashioned glass filled halfway with ice, place a scoop of raspberry sherbet.",
+      "Add UV Blue and top with soda.",
+      "Serve and enjoy."
+    ]
+  },
+  {
+    "id": 1006,
+    "title": "The Classic Gin Martini",
+    "tags": [
+      "gin cocktail",
+      "long drink"
+    ],
+    "ingredients": [
+      {
+        "label": "gin",
+        "value": "2 1/2 ounces gin"
+      },
+      {
+        "label": "dry vermouth",
+        "value": "1/2 ounce dry vermouth"
+      },
+      {
+        "label": "orange or aromatic bitters",
+        "value": "1 dash orange or aromatic bitters, optional"
+      },
+      {
+        "label": "lemon twist or olives",
+        "value": "1 lemon twist or 1 or 3 olives, for garnish"
+      }
+    ],
+    "updated": "2021-09-29T08:35:00Z",
+    "author": "Tom Macy",
+    "authorId": 1004,
+    "rating": 4.8,
+    "ratingNums": 77,
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDOGAsLQRfiwJCujVN_lNnCiEBqSjO3zyG8Q&usqp=CAU",
+    "description": "A classic dry gin martini is iconic and the world's most famous cocktail. Though many \"martinis\" have been created, there is only one true martini, and few drinks can beat this simple recipe. The flavor is a botanical bouquet with a dry profile that you can customize to your taste.",
+    "steps": [
+      "In a mixing glass filled with ice cubes, combine the gin and vermouth, pouring more or less vermouth to your taste.",
+      "Stir for 30 seconds.",
+      "Strain into a chilled cocktail glass.",
+      "Add a dash of bitters, if desired.",
+      "Garnish with a lemon twist or olives."
+    ]
+  },
+  {
+    "id": 1007,
+    "title": "Purple Viking Cocktail",
+    "tags": [
+      "gin cocktail",
+      "liqueur",
+      "citrus",
+      "short drink"
+    ],
+    "ingredients": [
+      {
+        "label": "Southern Comfort",
+        "value": "1 ounce Southern Comfort"
+      },
+      {
+        "label": "blue curaçao liqueur",
+        "value": "1 ounce blue curaçao liqueur"
+      },
+      {
+        "label": "blueberry liqueur",
+        "value": "1 ounce blueberry liqueur"
+      },
+      {
+        "label": "sloe gin",
+        "value": "1 ounce sloe gin"
+      },
+      {
+        "label": "lime juice",
+        "value": "Splash lime juice"
+      },
+      {
+        "label": "sour mix",
+        "value": "Splash sour mix"
+      },
+      {
+        "label": "lemon-lime soda",
+        "value": "Splash lemon-lime soda"
+      }
+    ],
+    "updated": "2021-11-26T08:35:00Z",
+    "author": "Jane Collins",
+    "authorId": 1005,
+    "rating": 4.0,
+    "ratingNums": 11,
+    "iconUrl": "https://homemadehooplah.com/wp-content/uploads/2015/10/Purple-People-Eater-Cocktail-1c.jpg",
+    "description": "The purple viking is an interesting and very enjoyable mixed drink. It's one of those highballs (like the Long Island iced tea) that seems to be a random mix of spirits—whatever was handy at the moment—but the result is surprisingly good.",
+    "steps": [
+      "In a highball glass filled with ice, pour the Southern Comfort, blue curaçao, blueberry liqueur, sloe gin, lime juice, and sour mix.",
+      "Stir well.",
+      "Top with a splash of soda.",
+      "Serve and enjoy."
+    ]
+  },
+  {
+    "id": 1008,
+    "title": "B-52",
+    "tags": [
+      "shots",
+      "strong"
+    ],
+    "ingredients": [
+      {
+        "label": "coffee liqueur",
+        "value": "1/2 ounce coffee liqueur"
+      },
+      {
+        "label": "cream liqueur",
+        "value": "1/2 ounce cream liqueur"
+      },
+      {
+        "label": "orange liqueur",
+        "value": "1/2 ounce orange liqueur"
+      }
+    ],
+    "updated": "2021-04-03T08:35:00Z",
+    "author": "Jane Collins",
+    "authorId": 1005,
+    "rating": 4.1,
+    "ratingNums": 36,
+    "iconUrl": "https://drink-mixer.com/wp-content/uploads/2021/01/b-52_cocktail.jpg",
+    "description": "The B-52 is one of the most popular shots. It's an impressive looking shot that has the delicious taste of coffee cream kissed with sweet orange.",
+    "steps": [
+      "Pour the coffee liqueur into a shot glass.",
+      "Float the Irish cream liqueur on top by pouring it slowly over the back of a bar spoon.",
+      "Float the Grand Marnier on top of the second layer, again using the spoon to break the flow.",
+      "To make a flaming B-52 shot, add a small amount—just enough for a thin layer—of 151-proof rum on the top. Light the shot on fire. Extinguish before drinking."
+    ]
+  },
+  {
+    "id": 1009,
+    "title": "Black Russian",
+    "tags": [
+      "vodka cocktail",
+      "liqueur",
+      "strong",
+      "short drink"
+    ],
+    "ingredients": [
+      {
+        "label": "vodka",
+        "value": "1 1/2 ounces vodka"
+      },
+      {
+        "label": "coffee liqueur",
+        "value": "3/4 ounce coffee liqueur"
+      },
+      {
+        "label": "Maraschino cherries",
+        "value": "optional, Maraschino cherries, for garnish"
+      }
+    ],
+    "updated": "2021-04-03T08:35:00Z",
+    "author": "Colleen Graham",
+    "authorId": 1002,
+    "rating": 3.9,
+    "ratingNums": 40,
+    "iconUrl": "https://samogonman.com/wp-content/uploads/2017/11/FE2C11I13JT3I3UWPFRL.jpg",
+    "description": "This popular lowball is enjoyed worldwide, and the combination of vodka with a coffee liqueur creates a pleasant and irresistible drink.",
+    "steps": [
+      "In an old-fashioned glass filled with ice, pour the vodka and coffee liqueur.",
+      "Stir well.",
+      "Garnish with cherries, if desired. Serve and enjoy."
+    ]
+  },
+  {
+    "id": 1010,
+    "title": "The Classic Daiquiri",
+    "tags": [
+      "rum cocktail",
+      "citrus",
+      "strong"
+    ],
+    "ingredients": [
+      {
+        "label": "light rum",
+        "value": "1 1/2 ounces light rum"
+      },
+      {
+        "label": "freshly squeezed lime juice",
+        "value": "3/4 ounce freshly squeezed lime juice"
+      },
+      {
+        "label": "simple syrup",
+        "value": "1/2 to 3/4 ounce simple syrup, to taste"
+      }
+    ],
+    "updated": "2021-04-03T08:35:00Z",
+    "author": "Jane Collins",
+    "authorId": 1005,
+    "rating": 4.0,
+    "ratingNums": 55,
+    "iconUrl": "https://relax.com.ua/wp-content/media/kiew/2012/08/cocktail-dream-ru.jpg",
+    "description": "The original daiquiri is an extremely simple recipe that requires just three common ingredients. It is also one of the freshest drinks you can make and an essential rum cocktail everyone should know and taste.",
+    "steps": [
+      "Add the ingredients to a cocktail shaker with ice cubes.",
+      "Shake well.",
+      "Strain into a chilled cocktail glass. Serve and enjoy."
+    ]
+  },
+  {
+    "id": 1011,
+    "title": "Mile High Manhattan",
+    "tags": [
+      "rum cocktail",
+      "strong"
+    ],
+    "ingredients": [
+      {
+        "label": "light rum",
+        "value": "1 1/2 ounces light rum"
+      },
+      {
+        "label": "freshly squeezed lime juice",
+        "value": "3/4 ounce freshly squeezed lime juice"
+      },
+      {
+        "label": "simple syrup",
+        "value": "1/2 to 3/4 ounce simple syrup, to taste"
+      }
+    ],
+    "updated": "2021-04-01T08:35:00Z",
+    "author": "Alex Woods",
+    "authorId": 1003,
+    "rating": 4.6,
+    "ratingNums": 55,
+    "iconUrl": "https://webosaurus.imgix.net/sweetandsour-production/manhattan.jpg",
+    "description": "While it is not really a Manhattan in the traditional sense, the Mile High Manhattan is a loose interpretation of the classic whiskey cocktail made with Maker's Mark.",
+    "steps": [
+      "In a cocktail shaker filled with ice, pour the whiskey and liqueurs.",
+      "Shake well.",
+      "Strain into a chilled cocktail glass. Serve and enjoy."
+    ]
+  },
+  {
+    "id": 1012,
+    "title": "New York Sour",
+    "tags": [
+      "whiskey cocktail",
+      "strong",
+      "short drink"
+    ],
+    "ingredients": [
+      {
+        "label": "rye whiskey, or bourbon",
+        "value": "2 ounces rye whiskey, or bourbon"
+      },
+      {
+        "label": "freshly squeezed lemon juice",
+        "value": "1 ounce freshly squeezed lemon juice"
+      },
+      {
+        "label": "simple syrup",
+        "value": "1/2 to 3/4 ounce simple syrup, to taste"
+      },
+      {
+        "label": "dry red wine",
+        "value": "1/2 to 3/4 ounce dry red wine"
+      }
+    ],
+    "updated": "2021-04-30T08:35:00Z",
+    "author": "Tom Macy",
+    "authorId": 1004,
+    "rating": 4.4,
+    "ratingNums": 61,
+    "iconUrl": "https://i.pinimg.com/736x/c2/6f/0b/c26f0b97214e0c974aa448fb0931a1cb.jpg",
+    "description": "The New York sour is a fascinating taste experience. It's a simple variation on the famous whiskey sour that adds a red wine float, offering two layers of flavor that integrate with one another as you drink. This is also a beautiful cocktail and it's easy to mix up at home.",
+    "steps": [
+      "In a cocktail shaker, pour the whiskey, lemon juice, and simple syrup. Fill with ice.",
+      "Shake well.",
+      "Strain into an old-fashioned glass filled with fresh ice.",
+      "Float red wine on top by pouring it slowly over the back of a bar spoon.",
+      "Serve and enjoy."
+    ]
+  },
+  {
+    "id": 1013,
+    "title": "Cinnamon Toasty Shooter",
+    "tags": [
+      "shots",
+      "liqueur"
+    ],
+    "ingredients": [
+      {
+        "label": "amaretto liqueur",
+        "value": "1 1/2 ounces amaretto liqueur"
+      },
+      {
+        "label": "cinnamon schnapps",
+        "value": "1/2 ounce cinnamon schnapps"
+      }
+    ],
+    "updated": "2021-05-27T08:35:00Z",
+    "author": "Jane Collins",
+    "authorId": 1005,
+    "rating": 4.5,
+    "ratingNums": 10,
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZubcGSr-Ou3Fd34FoM8SXnayX8RWwVi-rFSgnVahK14T70sDk1QmF6qaUtEo0iyfk4e4&usqp=CAU",
+    "description": "Hot buttered rum is a favorite winter drink, and it's irresistible. It is both sweet and warm, which is just the kind of comfort you want on the coldest days of the year.",
+    "steps": [
+      "Build the ingredients in a shot glass by pouring the amaretto first, then the schnapps.",
+      "Serve and enjoy."
+    ]
+  },
+  {
+    "id": 1014,
+    "title": "The Negroni Cocktail",
+    "tags": [
+      "gin cocktail",
+      "strong"
+    ],
+    "ingredients": [
+      {
+        "label": "gin",
+        "value": "1 ounce gin"
+      },
+      {
+        "label": "sweet vermouth",
+        "value": "1 ounce sweet vermouth"
+      },
+      {
+        "label": "Campari",
+        "value": "1 ounce Campari"
+      },
+      {
+        "label": "orange twist or slice",
+        "value": "1 orange twist or slice, for garnish"
+      }
+    ],
+    "updated": "2021-07-23T08:35:00Z",
+    "author": "Noah Daniels",
+    "authorId": 1006,
+    "rating": 4.0,
+    "ratingNums": 52,
+    "iconUrl": "https://e1.edimdoma.ru/data/posts/0002/3339/23339-ed4_wide.jpg?1631191197",
+    "description": "When you're looking for a classic cocktail to enjoy before a meal, few are as satisfying as the famous Negroni. It's a sophisticated aperitif featuring equal parts of gin, Campari, and sweet vermouth and so easy that anyone can mix it up.",
+    "steps": [
+      "In an old-fashioned glass filled with ice cubes, pour the gin, vermouth, and Campari.",
+      "Stir well.",
+      "Gently squeeze an orange twist or slice over the glass, then add it as a garnish. Serve and enjoy."
+    ]
+  },
+  {
+    "id": 1015,
+    "title": "Paloma Tequila",
+    "tags": [
+      "tequila cocktail",
+      "long drink"
+    ],
+    "ingredients": [
+      {
+        "label": "grapefruit soda",
+        "value": "4 ounces grapefruit soda"
+      },
+      {
+        "label": "freshly squeezed lime juice",
+        "value": "1/4 to /2 ounce freshly squeezed lime juice, to taste"
+      },
+      {
+        "label": "blanco or reposado tequila",
+        "value": "2 ounces blanco or reposado tequila"
+      },
+      {
+        "label": "coarse salt",
+        "value": "a few coarse salt, for optional rim"
+      },
+      {
+        "label": "lime wedge",
+        "value": "1 lime wedge, for optional rim"
+      }
+    ],
+    "updated": "2021-07-15T08:35:00Z",
+    "author": "Noah Daniels",
+    "authorId": 1006,
+    "rating": 4.0,
+    "ratingNums": 52,
+    "iconUrl": "https://www.edim.tv/img/small/paloma.jpg",
+    "description": "The paloma is a thirst-quenching tequila cocktail that's very easy to mix up. A favorite drink from Mexico, it is equally popular worldwide and one of the best ways to show off a great tequila.",
+    "steps": [
+      "In an old-fashioned glass filled with ice cubes, pour the gin, vermouth, and Campari.",
+      "Stir well.",
+      "Gently squeeze an orange twist or slice over the glass, then add it as a garnish. Serve and enjoy."
+    ]
+  },
+  {
+    "id": 1016,
+    "title": "Black Velvet",
+    "tags": [
+      "champagne"
+    ],
+    "ingredients": [
+      {
+        "label": "chilled Champagne",
+        "value": "4 ounces chilled Champagne"
+      },
+      {
+        "label": "chilled stout",
+        "value": "4 ounces chilled stout"
+      }
+    ],
+    "updated": "2021-09-21T08:35:00Z",
+    "author": "Jane Collins",
+    "authorId": 1005,
+    "rating": 4.5,
+    "ratingNums": 33,
+    "iconUrl": "https://www.liquor.com/thmb/WDx8rU0y-4AiSA2A5qQ9DyH0kwk=/440x440/filters:max_bytes(150000):strip_icc()/buena-vista-irish-coffee_main_720x720-35be1fb3ec3443a3a9bb892639afc932.jpg",
+    "description": "The black velvet is an interesting mixed drink that combines ​​Champagne and dark beer in a single glass. One may think this an unlikely combination but it's actually quite good.",
+    "steps": [
+      "Pour the Champagne into a wine flute, filling the glass about halfway.",
+      "Slowly pour the stout on top to fill the glass. Serve and enjoy."
+    ]
+  },
+  {
+    "id": 1017,
+    "title": "Raspberry Bellini",
+    "tags": [
+      "champagne",
+      "long drink",
+      "low alcohol"
+    ],
+    "ingredients": [
+      {
+        "label": "cachaça",
+        "value": "2 ounces cachaça"
+      },
+      {
+        "label": "raspberries",
+        "value": "4 to 5 raspberries"
+      },
+      {
+        "label": "lime juice",
+        "value": "1 splash lime juice"
+      },
+      {
+        "label": "sugar",
+        "value": "2 teaspoons superfine sugar"
+      },
+      {
+        "label": "Champagne",
+        "value": "3 to 5 ounces Champagne, to taste"
+      }
+    ],
+    "updated": "2021-01-21T08:35:00Z",
+    "author": "Alex Woods",
+    "authorId": 1003,
+    "rating": 4.0,
+    "ratingNums": 6,
+    "iconUrl": "https://media-cdn.tripadvisor.com/media/photo-m/1280/14/78/c1/67/lychee-raspberry-bellini.jpg",
+    "description": "The raspberry Bellini is a nice little Champagne cocktail. It is a twist between the simplistic styling of the Champagne cocktail and the fruity Bellini.",
+    "steps": [
+      "Muddle the raspberries, sugar, and lime juice in a cocktail shaker.",
+      "Fill with ice and add cachaca.",
+      "Shake vigorously.",
+      "Strain into a Champagne flute.",
+      "Top with Champagne. Serve and enjoy."
+    ]
+  },
+  {
+    "id": 1018,
+    "title": "French 75",
+    "tags": [
+      "champagne",
+      "long drink",
+      "low alcohol"
+    ],
+    "ingredients": [
+      {
+        "label": "gin or cognac",
+        "value": "1 to 2 ounces gin, or cognac, to taste"
+      },
+      {
+        "label": "simple syrup",
+        "value": "1 teaspoon simple syrup"
+      },
+      {
+        "label": "freshly squeezed lemon juice",
+        "value": "1/2 ounce freshly squeezed lemon juice"
+      },
+      {
+        "label": "Champagne",
+        "value": "4 ounces Champagne"
+      },
+      {
+        "label": "lemon twist",
+        "value": "1 lemon twist, for garnish"
+      }
+    ],
+    "updated": "2021-11-02T08:35:00Z",
+    "author": "Michael Clifford",
+    "authorId": 1007,
+    "rating": 4.3,
+    "ratingNums": 47,
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk_LDRuVKGgmaj1gB9sW3GHon5AWOwt-Tt2g&usqp=CAU",
+    "description": "The French 75 is one of the most popular Champagne cocktails. The beauty of this drink is in its simplicity and bright citrus taste. With a base liquor of gin or cognac accented by simple syrup, lemon juice, and the vibrant bubbles of sparkling wine, it's a lovely drink that's perfect for any occasion.",
+    "steps": [
+      "In a cocktail shaker filled with ice cubes, pour the gin or cognac, simple syrup, and lemon juice.",
+      "Shake well.",
+      "Strain into a chilled Champagne flute that is at least half full of ice.",
+      "Slowly fill with Champagne.",
+      "Garnish with a lemon twist, if desired. Serve and enjoy."
+    ]
+  },
+  {
+    "id": 1019,
+    "title": "White Russian",
+    "tags": [
+      "vodka cocktail",
+      "liqueur",
+      "strong",
+      "short drink"
+    ],
+    "ingredients": [
+      {
+        "label": "vodka",
+        "value": "1 1/2 ounces vodka"
+      },
+      {
+        "label": "coffee liqueur",
+        "value": "3/4 ounce coffee liqueur"
+      },
+      {
+        "label": "cream",
+        "value": "3/4 ounce cream"
+      }
+    ],
+    "updated": "2021-12-01T08:35:00Z",
+    "author": "Michael Clifford",
+    "authorId": 1007,
+    "rating": 4.4,
+    "ratingNums": 64,
+    "iconUrl": "https://o-cocktails.ru/wp-content/uploads/2011/06/koktejl-belyj-russkij-2.jpg",
+    "description": "The White Russian is among the best, easiest, and most popular vodka cocktails you will come across. The creamy counterpart to the equally famous Black Russian—vodka and coffee liqueur—the white version is incredibly simple to make by just adding cream to the black one.",
+    "steps": [
+      "Pour the ingredients into an old-fashioned glass, starting with the vodka, followed by the coffee liqueur. Add ice into the glass, and pour the cream in last.",
+      "Stir well. Serve and enjoy."
+    ]
+  },
+  {
+    "id": 1020,
+    "title": "Designated Appletini Mocktail",
+    "tags": [
+      "non-alcoholic drink",
+      "citrus"
+    ],
+    "ingredients": [
+      {
+        "label": "granulted sugar",
+        "value": "a little granulted sugar, for rimming"
+      },
+      {
+        "label": "freshly pressed apple juice",
+        "value": "1/4 cup freshly pressed apple juice"
+      },
+      {
+        "label": "simple syrup",
+        "value": "1 tablespoon simple syrup"
+      },
+      {
+        "label": "freshly squeezed lemon juice",
+        "value": "1/2 tablespoon freshly squeezed lemon juice"
+      },
+      {
+        "label": "apple slices",
+        "value": "a few apple slices, for garnish"
+      }
+    ],
+    "updated": "2021-08-17T08:35:00Z",
+    "author": "Colleen Graham",
+    "authorId": 1002,
+    "rating": 4.5,
+    "ratingNums": 25,
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPFB2o0QVPlJRAaaKR5HrBifyA0B7EI3kw_fDAELxuQAfxXA4lILsxYtuvAk2rlb35Tek&usqp=CAU",
+    "description": "Whether you're the designated driver, don't feel like drinking, or simply want a great cocktail without the booze, the Designated Appletini is a perfect choice. It is a non-alcoholic version of the apple martini, also known as an appletini.",
+    "steps": [
+      "Rim a chilled cocktail glass with the sugar.",
+      "Pour the apple juice, simple syrup, and lemon juice into a cocktail shaker filled with ice.",
+      "Shake well.",
+      "Strain into the prepared glass.",
+      "Garnish with apple slices. Serve and enjoy."
+    ]
+  },
+  {
+    "id": 1021,
+    "title": "Sundowner Mocktail",
+    "tags": [
+      "non-alcoholic drink",
+      "citrus"
+    ],
+    "ingredients": [
+      {
+        "label": "white grape juice",
+        "value": "1/2 cup white grape juice"
+      },
+      {
+        "label": "sparkling water",
+        "value": "1/3 cup sparkling water"
+      },
+      {
+        "label": "mint sprig",
+        "value": "1 mint sprig, for garnish"
+      }
+    ],
+    "updated": "2021-08-17T08:35:00Z",
+    "author": "Amelia Hayes",
+    "authorId": 1008,
+    "rating": 4.3,
+    "ratingNums": 6,
+    "iconUrl": "https://intentionalhospitality.com/wp-content/uploads/2019/08/Autumn-Spice-Mocktail-2.jpg",
+    "description": "The sundowner is an elegant mocktail with a fabulous flavor. It combines white grape juice and sparkling water. You also get to enjoy the cooling flavor of mint as the garnish slowly infuses its flavor into the drink.",
+    "steps": [
+      "Pour the ingredients into a wine glass filled with ice.",
+      "Stir well.",
+      "Garnish with a sprig of mint. Serve and enjoy."
+    ]
+  }
+]

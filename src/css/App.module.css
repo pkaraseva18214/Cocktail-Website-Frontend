@@ -1,0 +1,12 @@
+.app{
+  height: 100vh;
+}
+
+.footer {
+  min-height: 112px;
+  background-color: #f7f7fa;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}

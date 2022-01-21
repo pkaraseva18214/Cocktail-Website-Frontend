@@ -1,0 +1,47 @@
+{
+  "id": 1001,
+  "title": "Mojito",
+  "tags": [
+    "low alcohol",
+	  "mint",
+    "rum cocktail",
+    "citrus"
+  ],
+  "ingredients": [
+    {
+      "label": "mint",
+      "value": "10 fresh mint leaves"
+    },
+    {
+      "label": "lime",
+      "value": "lime, cut into 4 wedges"
+    },
+    {
+      "label": "white sugar",
+      "value": "2 tablespoons white sugar, or to taste"
+    },
+    {
+      "label": "ice",
+      "value": "1 cup ice cubes"
+    },
+    {
+      "label": "white rum",
+      "value": "10 and half fluid ounces white rum"
+    },
+    {
+      "label": "soda",
+      "value": "half cup club soda"
+    }
+  ],
+  "updated": "2021-01-30T08:30:00Z",
+  "author": "Olivia French",
+  "authorId": 1001,
+  "rating": 4.8,
+  "ratingNums": 11,
+  "iconUrl": "https://robbreport.com/wp-content/uploads/2021/08/mojito_adobe_stock.jpg",
+  "description": "string",
+  "steps": [
+    "Muddle the lime juice, sugar and mint leaves in a small jug, crushing the mint as you go – you can use the end of a rolling pin for this. Pour into a tall glass and add a handful of ice.",
+    "Pour over the rum, stirring with a long-handled spoon. Top up with soda water, garnish with mint and serve."
+  ]
+}
